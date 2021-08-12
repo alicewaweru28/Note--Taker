@@ -51,7 +51,13 @@ This exercise provided my first experience with building an Express.js server, w
 ## Deployed App
 This Note Taker app has been deployed on Heroku and is available at https://note------taker.herokuapp.com/notes
 ## Demo 
-https://note------taker.herokuapp.com/notes
+
+![9D138C18-B4EE-4EE1-931B-480A973A2F20_1_105_c](https://user-images.githubusercontent.com/80792502/129267344-32f1866f-c394-47cb-bbb9-cdd280f217e0.jpeg)
+
+![01ABA550-EB5F-4B3E-A82D-92AAA20DE955_1_105_c](https://user-images.githubusercontent.com/80792502/129267325-f4610c97-3a0c-44ad-b1f9-adc00f402f73.jpeg)
+
+![769CF4D6-FE8A-4AE0-917C-91917655035A_1_105_c](https://user-images.githubusercontent.com/80792502/129267247-83ccde94-4034-44ad-ac52-c63e25976d23.jpeg)
+
 
 ## MIT License
 &copy;2021 Alice Waweru

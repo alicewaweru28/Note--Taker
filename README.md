@@ -59,6 +59,11 @@ This Note Taker app has been deployed on Heroku and is available at https://note
 ![769CF4D6-FE8A-4AE0-917C-91917655035A_1_105_c](https://user-images.githubusercontent.com/80792502/129267625-0bab411f-47c4-4b5b-ad8c-b22e5a96ea01.jpeg)
 
 
+
+
+https://user-images.githubusercontent.com/80792502/129274763-743481e8-2bf0-4554-b078-2fa403ac8a5c.MOV
+
+
 ## MIT License
 &copy;2021 Alice Waweru
 

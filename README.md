@@ -1,7 +1,5 @@
 # 11 Express.js: Note Taker
 
-[![License: MIT](https://img.shields.io/github/license/CailinBellWold/Team-Profile-Generator?style=plastic)](https://opensource.org/licenses/MIT)
-
 ## Description 
 
 Refactored starter-code to create an application called Note Taker that can be used to write and save notes using an Express.js back-end. Notes are saved and retrieved from a JSON file. Front-end code was included in starter code.  
@@ -51,11 +49,9 @@ This exercise provided my first experience with building an Express.js server, w
 7. Open [http://localhost:3000](http://localhost:3000) in the modern browser of your choice.
 
 ## Deployed App
-This Note Taker app has been deployed on Heroku and is available at 
+This Note Taker app has been deployed on Heroku and is available at https://note------taker.herokuapp.com/notes
 ## Demo 
-
-DEMO | *Demo live app*
-
+https://note------taker.herokuapp.com/notes
 
 ## MIT License
 &copy;2021 Alice Waweru
